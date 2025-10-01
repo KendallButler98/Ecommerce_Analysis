@@ -1,6 +1,8 @@
 # E-commerce Customer Analysis: Understanding Behavior and Identifying High-Value Segments
 
-This project analyzes customer purchasing behavior in the [Online Retail II Dataset](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci). In order to run the code in the included jupyter notebook, you will have to download the data and include it in the same folder. 
+This project analyzes customer purchasing behavior in the [Online Retail II Dataset](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci). 
+
+(Note: to run the code in the included jupyter notebook, you will have to download the data and include it in the same folder)
 
 ## Objectives
 
